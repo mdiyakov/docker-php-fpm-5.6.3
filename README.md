@@ -5,3 +5,4 @@ Docker config for php-5.6.3 image with the following additional tools:
 * grunt 0.1.13
 * yarn 1.3.2
 * xdebug
+* ssmtp
